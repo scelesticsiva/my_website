@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my page on machine learning and deep learning
 
-You can use the [editor on GitHub](https://github.com/scelesticsiva/my_website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This will be the place where I will be including all that I learn about machine learning and deep learning. Humans have an innate desire to replicate themselves and machine learning is a result of one such endeavour to replicate the most complex organ in all of us, our brain. Machine learning has fascinated me so much that I think I am in an era similar to the "Computer" era which SteveJobs and BillGates lived through. Machine learning is no doubt going to seep into each and everything that we do everyday, it is just a matter of time before it happens. I do not want to miss this golden oppotunity to contribute as much I can to the machine learning community as it is in its rapid growth pace. As I do, I would spread the knowledge I gain to others through this blog.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+This is me, making my first commit for my website/blog.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scelesticsiva/my_website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
