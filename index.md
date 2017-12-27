@@ -4,7 +4,12 @@ This will be the place where I will be including all that I learn about machine 
 
 ##### From SteveJobs
 ```markdown
-Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart
+Remembering that I'll be dead soon is the most important tool I've ever encountered
+to help me make the big choices in life. Because almost everything — all external
+expectations, all pride, all fear of embarrassment or failure - these things just fall away
+in the face of death, leaving only what is truly important. Remembering that you are going
+to die is the best way I know to avoid the trap of thinking you have something to lose. You
+are already naked. There is no reason not to follow your heart
 ```
 ##### From ElonMusk
 ```markdown
@@ -13,5 +18,7 @@ No, I don't ever give up. I'd have to be dead or completely incapcitated.
 
 ##### From EricThomas
 ```markdown
-Pain is temporary. It may last for a minute, or an hour or a day, or even a year. But eventually, it will subside. And something else take its place. If I quit, however, it will last forever
+Pain is temporary. It may last for a minute, or an hour or a day, or even a year.
+But eventually, it will subside. And something else take its place.
+If I quit, however, it will last forever
 ```
